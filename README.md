@@ -10,7 +10,7 @@ please see (https://www.schoolsplusplus.co.za)
  nice-admin-bootstrap-admin-html-template/ \
  Author: BootstrapMade.com \
  License: https://bootstrapmade.com/license/ \
-======================================================== 
+========================================================\
 
 ## Backend - Python Flask
 
