@@ -4,15 +4,17 @@ please see (https://www.schoolsplusplus.co.za)
 ## Frontend (Edited)
 
 #---------------------------------Templates Used
-#!-- =======================================================
+#==================================================
 #* Template Name: AdminLTE - v2.5.0
 #* Template URL: https://bootstrapmade.com/
 #* nice-admin-bootstrap-admin-html-template/
 #* Author: BootstrapMade.com
 #* License: https://bootstrapmade.com/license/
-#======================================================== -->
+#========================================================
 
 ## Backend - Python Flask
+
+Development Language -Python. Server - Nginx
 
 ## Mobile App + Web App
 <div align="center">
@@ -21,10 +23,10 @@ please see (https://www.schoolsplusplus.co.za)
 
 # About Project
 
-### Use Cases
-### Learner Profile
-### Tutor Profile
-### Admin Profile
+#### Use Cases
+#### Learner Profile
+#### Tutor Profile
+#### Admin Profile
 
 schools++ is an innovative online learning channel for high school learners.
 
@@ -48,10 +50,10 @@ schools++ is an innovative online learning channel for high school learners.
 ![Submit my work.](web_submit_a_file2.png)
 
 
--Profile Update
--Edit/Update Question
--Reject Question (Tutors)
--Admin (Allocate submissions, Questions, Process Applications on Admin dashboard.)
+##### -Profile Update
+##### -Edit/Update Question
+##### -Reject Question (Tutors)
+##### -Admin (Allocate submissions, Questions, Process Applications on Admin dashboard.)
 
 
 
