@@ -1,5 +1,4 @@
 # Private Repo Project - Deployed on an Ubuntu Server 
-please see (https://www.schoolsplusplus.co.za)
 
 ## Frontend (Edited)
 
@@ -59,6 +58,6 @@ schools++ is an innovative online learning channel for high school learners.
 ##### -Reject Question (Tutors)
 ##### -Admin (Allocate submissions, Questions, Process Applications on Admin dashboard.)
 
-
+please see (https://www.schoolsplusplus.co.za)
 
 
