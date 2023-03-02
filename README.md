@@ -10,7 +10,7 @@ please see (https://www.schoolsplusplus.co.za)
  nice-admin-bootstrap-admin-html-template/ \
  Author: BootstrapMade.com \
  License: https://bootstrapmade.com/license/ \
-======================================================== \
+======================================================== 
 
 ## Backend - Python Flask
 
@@ -27,11 +27,11 @@ Server - Nginx
 schools++ is an innovative online learning channel for high school learners.
 
 ## Use Cases
-#### Learner Profile \
+#### Learner Profile 
 - client, user. Learner sees only questions in their grade. Create post(Question post), Edit Post, Delete Post, Comment and Upload. Each account has access to only two subjects (e.g Mathematics and Natural Sciences) for grades 7 - 9.
-#### Tutor Profile \
+#### Tutor Profile 
 - Comment, Reject Post(Assigned task), Reject Submission, Upload Feedback (Marked File) . Completes tasks(questions by learners) and marking uploaded documents. Tutor only sees questions that are assigned to. Access to all grade content (grades 7 - 12).
-#### Admin Profile \
+#### Admin Profile 
 - Edit Post, Delete Post, Comment and Upload. Manages tutor applications, verifies all account activities, allocates tasks and submissions to tutors.
 
 
@@ -46,7 +46,6 @@ schools++ is an innovative online learning channel for high school learners.
 4) Learner marks question completed, soolved question is made public to all learners registered for that specific grade.
 
 ![schools++ repository](schools_repository.png)
-
 
 ## Other Features
 
