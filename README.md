@@ -38,7 +38,7 @@ schools++ is an innovative online learning channel for high school learners.
 3) Tutor provides solution or guidance.
 4) Learner marks question completed, soolved question is made public to all learners registered for that specific grade.
 
-![Login & Home Screen](schools_repoitory.png)
+![schools++ repository](schools_repository.png)
 
 
 ## Other Features
