@@ -1,61 +1,50 @@
-# Private Repo Project - Deployed on an Ubuntu Server 
+## schoolsplusplus.co.za E-Learning WebApp 
 
-## Frontend (Edited)
+Online learning web app for high school learners. Learners can watch video tutorial, submit exercise work for marking and post questions.
+- Grades 10 - 12, have access to Maths, Sciences and Accounting.
+- Grade 7 -9 have access to Math and Natural Sciences content.
 
-================================================== \
- Front End : AdminLTE - v2.5.0 \ Edited and Customised
-========================================================\
+## Tech stack:
+- Flask, Supervisor, Gunicorn, Unicorn as worker
+- HTML, CSS, JavaScript
+- SQlite Database
+- Jinja2
+- Python 3.6+
 
-## Backend - Python Flask
+## Messaging
+- FlaskSocketIO (5.2.*)
+- JavaScript SocketIO (4.2.*)
 
-Python, Bash () \
-Server - Nginx \
-Monitoring Tools - Gunicorn and Supervisor
-
-## Mobile App + Web App
-<div align="center">
-  <img src="Untitled.gif" width="600" height="300"/>
-</div>
-
-## About Project
-
-schools++ is an online learning channel for high school learners. Learners can watch video tutorial, submit exercise work for marking and post questions \
-in the form of images.
+## Web App
+Android app is just a web view.
+![Tutorials Webview](0.png)
 
 ## Use Cases
 #### Learner Profile 
-- client, user. Learner sees only questions in their grade. Create post(Question post), Edit Post, Delete Post, Comment and Upload. Each account has access to only two subjects (e.g Mathematics and Natural Sciences) for grades 7 - 9.
-- Grades 10 - 12, have access to two - four subjects contents (Maths, Sciences and Accounting)
+- Create post(Question post), Edit Post, Delete Post, Comment and Upload.
+- Live chat
+- Watch private and public video tutorials
+
+<p float="left">
+  <img src="3.png" width="500" height="600"/>
+  <img src="00.png" width="500" height="600"/> 
+</p>
+
 #### Tutor Profile 
-- Comment, Reject Post(Assigned task), Reject Submission, Upload Feedback (Marked File) . Completes tasks(questions by learners) and marking uploaded documents. Tutor only sees questions that are assigned to them. Access to all grade content (grades 7 - 12).
+- Comment, Reject Assigned task, Reject Submission
+- Upload Marked File. 
+- Tutor can ccess all grades content (grades 7 - 12)
+- Live chat
+
 #### Admin Profile 
-- Edit Post, Delete Post, Comment and Upload. Manages tutor applications, verifies all account activities, allocates tasks and submissions to tutors.
+- Manages tutor applications
+- Verify account activities (Activate and Deactivate)
+- Process Payment queries
+- Account recovery
+- allocates tasks and submissions to tutors.
 
-
-![Welcom Screen](home_web.png)
-
-1) Learner posts a question.
-
-![Login & Home Screen](home.png)
-
-2) Admin allocates question to Tutor 
-3) Tutor provides solution or guidance.
-4) Learner marks question completed, solved question is made public to all learners registered for that specific grade.
-
+## Webview 
 ![schools++ repository](schools_repository.png)
-
-## Other Features
-
-- Learner uploads their practice answer sheet, tutor will mark and send back a marked file.
-
-![Submit my work.](web_submit_a_file2.png)
-
-
-##### -Profile Update
-##### -Edit/Update Question
-##### -Reject Question (Tutors)
-##### -Admin (Allocate submissions, Questions, Process Applications on Admin dashboard.)
-
-please see (https://www.schoolsplusplus.co.za)
-
+## Mobile view
+![Timeline View](4.png)
 
